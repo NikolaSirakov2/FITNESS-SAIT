@@ -75,4 +75,10 @@ main section:nth-child(1) button:hover {
 
 main article {
     display: inline-block;
+    margin: 3px 0;
+    padding: 20px;
+    width: 475px;
+    height: 130px;
+    background: chocolate;
+    color: antiquewhite;
 }
