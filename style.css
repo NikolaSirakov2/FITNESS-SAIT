@@ -35,7 +35,9 @@ a {
 }
 
 a:hover {
-    color: cadetblue;
+    color: rgb(240, 50, 16);
+    font-size: x-large;
+    
 }
 
 img {
