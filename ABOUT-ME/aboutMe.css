@@ -9,7 +9,7 @@ header {
 }
 
 main {
-  margin: 30px;
+  margin: 30px 130px;
 }
 
 main article {
@@ -33,4 +33,31 @@ button {
 
 button:hover {
     border-radius: 0;
+}
+
+section {
+    height: 900px;
+}
+
+section img {
+    margin: 50px 10px 20px 130px;
+    width: 500px;
+    height: 800px;
+}
+
+section article {
+    text-align: right;
+    margin-right: 400px;
+    float: right;
+    margin: 50px 240px 100px 10px;
+    padding: 290px 10px;
+}
+
+section article h1 {
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section article p {
+    font-size: x-large;
 }
