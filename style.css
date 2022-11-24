@@ -87,6 +87,11 @@ main article {
     color: antiquewhite;
 }
 
+main article:hover {
+    color: chocolate;
+    background: antiquewhite;
+}
+
 main article h2 {
     text-align: center;
 }
@@ -109,4 +114,5 @@ footer article:nth-child(2) {
 
 footer i {
     padding: 20px;
+    color: purple;
 }
