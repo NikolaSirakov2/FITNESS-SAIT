@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 2rem 10rem;
   font-family: Helvetica, sans-serif;
+  position: static;
 }
 
 header p {
@@ -73,6 +74,8 @@ main section:nth-child(1) button {
 main section:nth-child(1) button:hover {
     color: chocolate;
     background: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
 }
 
 main article {
@@ -96,6 +99,7 @@ footer article {
     width: 45%;
     /* margin: 30px 0; */
     display: inline-block;
+    font-weight: bolder;
 }
 
 footer article:nth-child(2) {
