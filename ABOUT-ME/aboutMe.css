@@ -33,6 +33,7 @@ button {
 
 button:hover {
     border-radius: 0;
+    background-color: coral;
 }
 
 section {
@@ -60,4 +61,12 @@ section article h1 {
 
 section article p {
     font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+section ul li {
+    display: inline-block;
+   
 }
