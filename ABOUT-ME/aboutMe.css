@@ -71,7 +71,7 @@ button:hover {
 
 .fewImg ul {
     background-color: aqua;
-    margin: 150px;
+    margin: 20px;
     
 }
 
@@ -79,12 +79,13 @@ button:hover {
     width: 140px;
     height: 100px;
     display: inline-block;
-    padding: 20px;
-    margin: 78px;
+    background-color: blueviolet;
+    padding: 0px;
+    margin: 100px 200px;
 }
 
-.fewImg img{
-    width: 300px;
+.fewImg li img{
+    width: 380px;
     height: 550px;
     
 }
