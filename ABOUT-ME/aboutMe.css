@@ -90,6 +90,13 @@ button:hover {
     
 }
 
+.fewImg h3 {
+    text-align: center;
+    text-decoration: underline;
+    width: 240px;
+    height: 60px;
+}
+
 .fewImg p {
     color: red;
     font-size: x-large;
