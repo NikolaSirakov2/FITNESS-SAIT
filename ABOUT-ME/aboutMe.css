@@ -71,7 +71,7 @@ button:hover {
 
 .fewImg ul {
     background-color: aqua;
-    margin: 20px;
+    margin: 19px;
     
 }
 
@@ -100,5 +100,7 @@ button:hover {
 .fewImg p {
     color: red;
     font-size: x-large;
+    width: 340px;
+    height: 60px;
 }
 
